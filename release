@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+pkg="Depleted_Uranium_Fuel_Cell_Rename"
+
+version="$(jq -r .version < ./"$pkg"/info.json)"
+
+zip -r "$pkg"_"$version".zip ./"$pkg"

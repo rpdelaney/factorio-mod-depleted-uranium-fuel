@@ -1,0 +1,10 @@
+{
+	"name": "Depleted_Uranium_Fuel_Cell_Rename",
+	"version": "1.0.0",
+	"title": "Depleted Uranium Fuel Cell Rename",
+	"author": "Ryan P. Delaney",
+	"homepage": "https://github.com/rpdelaney/factorio-mod-depleted-uranium-fuel",
+	"description": "Renames the used up uranium fuel cell",
+	"factorio_version": "1.1",
+	"dependencies": ["base"]
+}
